@@ -1,0 +1,458 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Ladies losse at the adventures of five hours, or, The shifting of the vaile</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48111</idno>
+            <idno type="STC">Wing L156</idno>
+            <idno type="STC">ESTC R34501</idno>
+            <idno type="EEBO-CITATION">14471176</idno>
+            <idno type="OCLC">ocm 14471176</idno>
+            <idno type="VID">102400</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48111)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102400)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1062:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Ladies losse at the adventures of five hours, or, The shifting of the vaile</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Enrique Valdive</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Enrique Valdive</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102400:1"/>
+            <pb facs="tcp:102400:1" rendition="simple:additions"/>
+            <p>THE LADIES LOSSE AT THE ADVENTURES OF FIVE HOURS: OR, THE Shifting of the Vaile.</p>
+            <p>Printed in the year 166<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:102400:2"/>
+            <pb n="3" facs="tcp:102400:2"/>
+            <head>The Ladies Loſs, <hi>&amp;c.</hi>
+            </head>
+            <lg>
+               <l>YE <hi>Females</hi> that <hi>Do</hi> at <hi>Adventures</hi>
+               </l>
+               <l>For <hi>hours five</hi> (or leſs, as't Enters)</l>
+               <l>And ſometimes chance to <hi>ſhift</hi> the <hi>Vaile,</hi>
+               </l>
+               <l>Not onely of the <hi>Head,</hi> but <hi>Taile;</hi>
+               </l>
+               <l>Come liſten, for it may concern ye,</l>
+               <l>How <hi>Mulier formoſa Superne</hi>
+               </l>
+               <l>
+                  <hi>Deſinit.</hi> In <hi>Janivere,</hi>
+               </l>
+               <l>Where <hi>ſome</hi> were not, though <hi>many</hi> were</l>
+               <l>All in the Fields of <hi>Lincolns Inn,</hi>
+               </l>
+               <l>The <hi>Folk</hi> beginning to <hi>Begin,</hi>
+               </l>
+               <l>For Poet (hight the <hi>Lord</hi> knows what)</l>
+               <l>Had made a Play of this and that;</l>
+               <l>Whereto reſorted grave and fickle</l>
+               <l>As Saints did erſt to <hi>Conventicle:</hi>
+               </l>
+               <l>Some dreſſing <hi>Heads</hi> inſtead of <hi>Vailes,</hi>
+               </l>
+               <l>With Periwiggs; and ſome the <hi>Tailes,</hi>
+               </l>
+               <l>As it appear'd; by foul miſchance,</l>
+               <l>When <hi>Lady</hi> trim'd ith' <hi>Mode</hi> of <hi>France,</hi>
+               </l>
+               <l>Drop'd <hi>Utenſils</hi> from 'twixt her <hi>legs,</hi>
+               </l>
+               <l>(No matter whether <hi>Malls</hi> or <hi>Peggs</hi>)</l>
+               <l>A pretty kind of faſhion, that-</l>
+               <l>For <hi>Girles</hi> to <hi>Periwig</hi> a <hi>Twat!</hi>
+               </l>
+               <l>'Tis <hi>ſign</hi> (perhaps) it keeps good <hi>orders,</hi>
+               </l>
+               <l>When 'tis <hi>confin'd</hi> within the <hi>Borders.</hi>
+               </l>
+               <pb n="4" facs="tcp:102400:3"/>
+               <l>How came the <hi>cuſtom</hi> with the pocks,</l>
+               <l>Puts <hi>Member Privy</hi> under locks,</l>
+               <l>And nat <hi>Italian?</hi> What <hi>miſhap</hi>
+               </l>
+               <l>Occaſion could this <hi>After-clap?</hi>
+               </l>
+               <l>Was it, O <hi>Mother Gibbs,</hi> thy <hi>care</hi>
+               </l>
+               <l>To fit the <hi>Lady</hi> to a <hi>hair,</hi>
+               </l>
+               <l>And faſten <hi>Ware</hi> upon thy <hi>word,</hi>
+               </l>
+               <l>That leaves her <hi>Ware</hi> like <hi>Tayle</hi> of <hi>Bird;</hi>
+               </l>
+               <l>To every <hi>Stage-wright</hi> made a ſcoff,</l>
+               <l>Like <hi>Coot,</hi> with <hi>Periwigg</hi> ſtript off.</l>
+               <l>'Twixt <hi>Madams</hi> Legs (as ſung the <hi>Poet</hi>)</l>
+               <l>But 'twas ſo <hi>lately done,</hi> all <hi>know</hi> it.</l>
+               <l>But do not <hi>(Muſe)</hi> thus fondly raile</l>
+               <l>On the nice-<hi>Trimmer</hi> of the <hi>Taile;</hi>
+               </l>
+               <l>Perhaps her <hi>Art</hi> was not in <hi>fault,</hi>
+               </l>
+               <l>Securing every <hi>ſlight aſsault;</hi>
+               </l>
+               <l>Preſuming, <hi>Wight,</hi> would come to <hi>hand,</hi>
+               </l>
+               <l>Like a <hi>Dutch Cow,</hi> or <hi>Wench</hi> well <hi>man'd,</hi>
+               </l>
+               <l>And not endanger (as it chances)</l>
+               <l>Both <hi>Member</hi> and <hi>Appurtenances,</hi>
+               </l>
+               <l>To the rude <hi>hands</hi> of <hi>Blade</hi> ſo <hi>rough,</hi>
+               </l>
+               <l>That miſtakes <hi>Merkin</hi> for a <hi>Muff,</hi>
+               </l>
+               <l>And carries all off with a <hi>vengeance,</hi>
+               </l>
+               <l>Then <hi>rubs away</hi> (as erſt did S<hi rend="sup">t</hi>. <hi>Johns</hi>)</l>
+               <l>And never <hi>minds</hi> for to <hi>reſtore,</hi>
+               </l>
+               <l>Or leave <hi>behind,</hi> what's <hi>loſt before.</hi>
+               </l>
+               <l>Oh <hi>Varlet</hi> vile! who with fierce <hi>handing</hi>
+               </l>
+               <l>Haſt done more <hi>miſchief (notwithſtanding)</hi>
+               </l>
+               <l>Then <hi>Wallace</hi> with his <hi>Tool</hi> ſo <hi>ſtayward,</hi>
+               </l>
+               <l>Can make amends for, though like <hi>Bayard</hi>
+               </l>
+               <l>He ne're ſo <hi>ſtifly</hi> could ſtand to't,</l>
+               <l>This <hi>gain</hi> that <hi>loſs</hi> could ne're <hi>recruit:</hi>
+               </l>
+               <l>For (as an <hi>Author</hi> ſayes) her <hi>Mounſieur</hi>
+               </l>
+               <l>Coming that night with thoughts to trounce her,</l>
+               <l>And finding his <hi>Tatterdemalian</hi>
+               </l>
+               <l>As <hi>b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ld</hi> as <hi>Huſwife</hi> clip'd <hi>Italian,</hi>
+               </l>
+               <pb n="5" facs="tcp:102400:3"/>
+               <l>Who in her <hi>Infancy</hi> with <hi>unction,</hi>
+               </l>
+               <l>Is ſo <hi>un-hair'd</hi> for future <hi>function,</hi>
+               </l>
+               <l>That after <hi>Oyles</hi> and <hi>Labours</hi> expence,</l>
+               <l>A <hi>Barber</hi> there ſhall ne're earn <hi>ſix pence.</hi>
+               </l>
+               <l>He thus rebuk't her, — Be gar <hi>Madam,</hi>
+               </l>
+               <l>Me think your <hi>Ladyſhip</hi> have <hi>had 'um:</hi>
+               </l>
+               <l>The caſe is <hi>alter'd</hi> ſince I <hi>foutred;</hi>
+               </l>
+               <l>Your <hi>Cunny</hi> is not well <hi>accoutred:</hi>
+               </l>
+               <l>Undreſs'd below the <hi>Busk</hi> you be,</l>
+               <l>Some honeſt <hi>Lad</hi> from <hi>Muſcovy</hi>
+               </l>
+               <l>Will you preſent with <hi>fur</hi> of <hi>Rat</hi>
+               </l>
+               <l>To <hi>furniſh</hi> out your <hi>Twit-cum-twat;</hi>
+               </l>
+               <l>A <hi>Pox</hi> upon this <hi>filthy Paltry</hi>
+               </l>
+               <l>
+                  <hi>Commodity,</hi> that ſnodes like <hi>Palfrey:</hi>
+               </l>
+               <l>And though at firſt he was full fervent,</l>
+               <l>Kiſs'd hand, and cry'd, <hi>Your humble Servant:</hi>
+               </l>
+               <l>And <hi>Lady</hi> ſad for <hi>work</hi> oth' <hi>day,</hi>
+               </l>
+               <l>Did loſe her <hi>Night-work</hi> as they ſay.</l>
+               <l>So fared it with <hi>Abſolon,</hi>
+               </l>
+               <l>Who found a <hi>Beard,</hi> expecting <hi>none.</hi>
+               </l>
+               <l>When <hi>Goſsip</hi> (to his great amazement)</l>
+               <l>Turn'd <hi>Tayle</hi> for <hi>Smeller,</hi> out of <hi>Cazement,</hi>
+               </l>
+               <l>
+                  <hi>Womanaging</hi> ſo <hi>cleaverly,</hi>
+               </l>
+               <l>That <hi>Nab</hi> kiſt <hi>Tout</hi> full <hi>ſavorly,</hi>
+               </l>
+               <l>And ſtarted back, like <hi>Horſe</hi> cryes <hi>Wy-hee</hi>
+               </l>
+               <l>At Female-Beard, to hear her <hi>Ty<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hee.</hi>
+               </l>
+               <l>But let's return, (what e're it coſt)</l>
+               <l>In <hi>queſt</hi> of <hi>what</hi> our <hi>Lady loſt:</hi>
+               </l>
+               <l>Some call it <hi>one thing,</hi> ſome <hi>another:</hi>
+               </l>
+               <l>But, while the <hi>Learned</hi> make a <hi>pother,</hi>
+               </l>
+               <l>And, in ſundry <hi>Diſputes</hi> are,</l>
+               <l>Wee'l term it <hi>Muff</hi> for <hi>Lady-ware;</hi>
+               </l>
+               <l>Though <hi>it</hi> be neither <hi>Budge</hi> nor <hi>Miniver,</hi>
+               </l>
+               <l>Worn in the <hi>dayes</hi> of good Queen <hi>Guinever:</hi>
+               </l>
+               <l>The <hi>Siſterhood</hi> in <hi>Bloomsbury,</hi>
+               </l>
+               <l>Have other <hi>name</hi> to call it by;</l>
+               <pb n="6" facs="tcp:102400:4"/>
+               <l>But hold not fit that every <hi>Lunges</hi>
+               </l>
+               <l>Should underſtand <hi>it,</hi> more then <hi>Spunges,</hi>
+               </l>
+               <l>Which for a ſpecial <hi>Friend,</hi> or ſo,</l>
+               <l>They will produce; but if not, no.</l>
+               <l>Had <hi>this</hi> befell in time oth' <hi>Rump,</hi>
+               </l>
+               <l>'That ſtruck <hi>them</hi> into ſuch a <hi>dump,</hi>
+               </l>
+               <l>That (Stage-men all) <hi>who</hi> ever gav't ye,</l>
+               <l>Before <hi>Committee-men</hi> of <hi>Safety</hi>
+               </l>
+               <l>Had been led <hi>captive,</hi> where he ſhould</l>
+               <l>Shew <hi>whence</hi> it <hi>came,</hi> and whither 't <hi>would:</hi>
+               </l>
+               <l>For <hi>they</hi> would ſoon have ſpent their <hi>Verdict,</hi>
+               </l>
+               <l>And made a <hi>Law,</hi> none ſhould <hi>interdict.</hi>
+               </l>
+               <l>(If <hi>Harry Martins</hi> lucky wit</l>
+               <l>Had not by chance <hi>diſcover'd</hi> it.)</l>
+               <l>Firſt, to <hi>ſecure all</hi> that were</l>
+               <l>
+                  <hi>Confederates</hi> with this <hi>Enginere,</hi>
+               </l>
+               <l>Who (as preſum'd) had found a <hi>trick</hi>
+               </l>
+               <l>To <hi>Beard</hi> the <hi>Body-Politick:</hi>
+               </l>
+               <l>Next that a <hi>Privy-ſearch</hi> be made</l>
+               <l>Throughout the <hi>City,</hi> though the <hi>Trade</hi>
+               </l>
+               <l>Seem rather <hi>Forreign</hi> then <hi>Domeſtick,</hi>
+               </l>
+               <l>(As being <hi>intricate</hi> and <hi>myſtick:</hi>
+               </l>
+               <l>Beſides, the <hi>Hogow,</hi> or the <hi>ſtench</hi>
+               </l>
+               <l>Was (ſome ſay) <hi>Spaniſh,</hi> ſome ſay <hi>French</hi>)</l>
+               <l>Laſt, that the <hi>Author</hi> ſhould be ſent</l>
+               <l>To ſuffer <hi>condign puniſhment.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>A <hi>Presbyter</hi> (for ſometimes they</l>
+               <l>Will ſhuffle in to ſee a Play)</l>
+               <l>Liſtning with <hi>open mouth,</hi> as <hi>wide</hi>
+               </l>
+               <l>As are in length of's <hi>Ears;</hi> the <hi>Hide</hi>
+               </l>
+               <l>By chance eſpy'd in <hi>clutch</hi> of <hi>Player</hi>
+               </l>
+               <l>(Who much admir'd the <hi>twirle</hi> oth' <hi>hair</hi>)</l>
+               <l>This <hi>pretty Muff</hi> for <hi>Lady-ware;</hi>
+               </l>
+               <l>Who, as he nicely did it <hi>handle,</hi>
+               </l>
+               <l>Upheaving <hi>Spectacle</hi> to <hi>candle,</hi>
+               </l>
+               <pb n="7" facs="tcp:102400:4"/>
+               <l>Quoth he, This is ſome <hi>Popiſh ſhred,</hi>
+               </l>
+               <l>Or <hi>ſhaving</hi> of ſome <hi>Fryer's head;</hi>
+               </l>
+               <l>A piece of <hi>Nuns work,</hi> faſtned on</l>
+               <l>The <hi>Engliſh Whore</hi> of <hi>Babylon,</hi>
+               </l>
+               <l>Sent hither by the <hi>Lord</hi> knows <hi>whom,</hi>
+               </l>
+               <l>No more then does the <hi>Pope of Rome.</hi>
+               </l>
+               <l>An invention, 'twill move your laughter,</l>
+               <l>For us to run a whoring after.</l>
+               <l>So down he threw't, and fled from thence,</l>
+               <l>And troth I have not ſeen him ſince;</l>
+               <l>And (ſooth to ſayn) as matters go,</l>
+               <l>I care not wh're I do or no.</l>
+               <l>But <hi>Lady</hi> gay, who <hi>dropp'd</hi> the <hi>Muff,</hi>
+               </l>
+               <l>It ſeems did know him well enough,</l>
+               <l>And having (as ſhe thought) a <hi>claw</hi>
+               </l>
+               <l>Againſt this <hi>Goſpel-Wright</hi> at <hi>Law,</hi>
+               </l>
+               <l>As having ſeen <hi>Commodity,</hi>
+               </l>
+               <l>Laſt in his hands (though odd it be)</l>
+               <l>Unto her <hi>Lawyer</hi> did <hi>complain,</hi>
+               </l>
+               <l>Who told her that her <hi>caſe</hi> was <hi>plain,</hi>
+               </l>
+               <l>And <hi>Wright</hi> ſhould render, or hee'd make him,</l>
+               <l>And <hi>where</hi> ſhe <hi>found</hi> her <hi>goods,</hi> to take 'em.</l>
+               <l>But <hi>Presbyter</hi> having good witneſs,</l>
+               <l>That Stager's wife had try'd its <hi>fitneſſe,</hi>
+               </l>
+               <l>After it was from his hands given,</l>
+               <l>(Intending with her to be even)</l>
+               <l>Remov'd the <hi>cauſe</hi> with <hi>certiorari,</hi>
+               </l>
+               <l>Where (as I hear) 'tis like to tarry.</l>
+               <l>But one thinks 'twould have done as well,</l>
+               <l>By petty Herauld with a Bell:</l>
+               <l>O yes!</l>
+            </lg>
+            <lg>
+               <l>If any one of what account</l>
+               <l>Soever in the Town or Count—</l>
+               <l>ry, Have ta'ne up an <hi>Inſtrument</hi>
+               </l>
+               <l>Which <hi>Women</hi> uſe for <hi>Ornament</hi>
+               </l>
+               <pb n="8" facs="tcp:102400:5"/>
+               <l>To ſet forth <hi>Member</hi> that is private</l>
+               <l>(As the <hi>main thing</hi> that people drive at)</l>
+               <l>Wherewith being <hi>dreſt,</hi> the naked <hi>Fubs</hi>
+               </l>
+               <l>Looks not unlike the <hi>Ace</hi> of <hi>Clubs,</hi>
+               </l>
+               <l>Or as the <hi>Song</hi> ſayes that is <hi>told</hi>
+               </l>
+               <l>By <hi>Fidler</hi> touching <hi>Marygold,</hi>
+               </l>
+               <l>Which if it chance to <hi>ſlip,</hi> or ſo,</l>
+               <l>When as the <hi>Sign's</hi> in <hi>Scorpio,</hi>
+               </l>
+               <l>The Mortal that was in <hi>conjunction,</hi>
+               </l>
+               <l>Looks ſomewhat like the <hi>Man</hi> oth' <hi>Moon</hi>
+               </l>
+               <l>That goes off with a <hi>buſh</hi> on's <hi>back;</hi>
+               </l>
+               <l>One cannot ſay — it's Eye is <hi>black:</hi>
+               </l>
+               <l>But (as diſcerning <hi>Authors</hi> ſay)</l>
+               <l>The Ground is <hi>black,</hi> the Eye is <hi>gray,</hi>
+               </l>
+               <l>Befitting <hi>Jane</hi> as well as <hi>Ciſley,</hi>
+               </l>
+               <l>Whoſe ſpecial mark is, that <hi>'tis griſley;</hi>
+               </l>
+               <l>Whereby appears (as <hi>Damroſe Page</hi> ſed)</l>
+               <l>Such <hi>things</hi> are us'd amongſt the <hi>aged.</hi>
+               </l>
+               <l>But be ſhe either <hi>Wife</hi> or <hi>Virgin,</hi>
+               </l>
+               <l>Or <hi>Widow,</hi> 'tis not worth the urging:</l>
+               <l>Did you but <hi>know,</hi> you'ld not deny her,</l>
+               <l>Who ever brings <hi>it</hi> to the <hi>Cryer,</hi>
+               </l>
+               <l>Shall have for's pains in coming home,</l>
+               <l>The pleaſure to <hi>cover</hi> and <hi>come.</hi>
+               </l>
+               <l>'Till when the thouſandth <hi>Maiden-head.</hi>
+               </l>
+               <l>Is to be let unfurniſhed.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:102400:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
